@@ -42,8 +42,9 @@ ul.about {
 }
 
 p.info {
-    margin-left: 350px;
-    margin-top: -300px;
+    margin-top: -505px;
+    border-left: -50px;
+    width: 70%;
 }
 
 img.imgLink {
@@ -65,14 +66,21 @@ div.about {
     margin-top: 150px;
 }
 
+div.textAbout{
+    margin-left: 350px;
+    margin-top: -40px;
+}
+
 
 
 div.links {
     margin-left: 1%;
     margin-top: 25px;
+    margin-left: 350px;
+    text-align: center;
 }
 
 #button{
     margin-left: 300px;
-    margin-top: -150px;
+    margin-top: 0px;
 }
