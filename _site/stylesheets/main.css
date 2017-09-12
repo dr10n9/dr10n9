@@ -44,3 +44,16 @@ p.about{
     margin-left: 9%;
     margin-right: 45%;
 }
+
+div.tele{
+    text-align: right;
+    margin-top: -300px;
+    margin-right: 350px;
+    margin-left: 50%;
+}
+
+div.bassDrum{
+    margin-left: 50%;
+    text-align: right;
+    margin-right: 1%;
+}
