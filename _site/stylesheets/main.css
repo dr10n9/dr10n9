@@ -19,6 +19,7 @@ p.first {
     font-size: 15px;
     margin-left: 12.5%;
     margin-top: 50px;
+    width: 45%;
 }
 
 p.otherText {
