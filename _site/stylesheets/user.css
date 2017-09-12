@@ -84,8 +84,8 @@ div.links {
     text-align: center;
 }
 
-#button{
-    margin-left: 300px;
-    margin-top: 0px;
-    vertical-align: middle;
+div.button{
+   margin-left: 300px;
+   margin-top: 0px;
+   vertical-align: middle;
 }
