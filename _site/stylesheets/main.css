@@ -24,7 +24,7 @@ p.first {
 p.otherText {
     font-size: 15px;
     margin-left: 9%;
-    margin-right: 50%;
+    margin-right: 45%;
 }
 
 button.toList {
@@ -42,5 +42,5 @@ button.toList {
 p.about{
     font-size: 15px;
     margin-left: 9%;
-    margin-right: 50%;
+    margin-right: 45%;
 }
