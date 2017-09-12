@@ -32,7 +32,8 @@ div.body{
 div.images{
     width: 50%;
     margin-left: 50%;
-    margin-top: -44%;
+    top: -215px;
+    position: relative;
 }
 
 div.header{
