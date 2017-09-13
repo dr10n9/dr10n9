@@ -5,11 +5,16 @@ body {
     margin-bottom: 0;
     padding-bottom: 0;
     font-size: 15px;
-    font-family: "monospace";
+    font-family: "Lato";
     font-weight: lighter;
     font-style: sans-serif;
     color: #1e1b1c;
 }
+
+h1, h2. h3, h4, h5, h6{
+    font-family: "Raleway"
+}
+
 div.userPageHeader{
     width: 300px;
     text-align: center;
