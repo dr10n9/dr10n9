@@ -62,3 +62,7 @@ div.buttons{
     margin-left: 350px;
     vertical-align: middle;
 }
+
+div.center{
+    text-align: center;
+}
