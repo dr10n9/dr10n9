@@ -59,4 +59,5 @@ div.links{
 div.buttons{
     text-align: center;
     margin-left: 350px;
+    vertical-align: middle;
 }
