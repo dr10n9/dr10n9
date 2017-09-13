@@ -5,13 +5,13 @@ body {
     margin-bottom: 0;
     padding-bottom: 0;
     font-size: 15px;
-    font-family: "monospace";
+    font-family: "Lato";
     font-weight: lighter;
     font-style: sans-serif;
     color: #1e1b1c;
 }
 
-button.toList {
+button.button{
     width: 15%;
     margin-left: 42.5%;
     background-color: #4CAF50;
@@ -27,33 +27,29 @@ button.toList {
 div.body{
     width: 50%;
     text-align: center;
+    font-size: 16px;
+    margin-left: 1%;
 }
 
-div.images{
-    width: 50%;
-    margin-left: 50%;
-    top: -215px;
-    position: relative;
-}
 
 div.header{
     text-align: center;
 }
 
-
-div.button{
-    width: 50%;
+div.images{
+    width:49%;
+    margin-bottom: -125px;
+    margin-left: 51%;
+    text-align: center;
 }
 
 div.tele{
-    margin-top:0px;
-    width: 100%;
-    height: 200px;
-    text-align: left;
+    text-align: center;
+    width: 150px;
+    height: 150px;
 }
 
-div.drum{
-    width: 100%;
-    height: 200px;
-    text-align: right;
+
+h1, h2. h3, h4, h5, h6{
+    font-family: "Raleway"
 }
