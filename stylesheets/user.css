@@ -15,16 +15,7 @@ h1, h2. h3, h4, h5, h6{
     font-family: "Raleway"
 }
 
-div.userPageHeader{
-    width: 300px;
-    text-align: center;
-    margin-left: 1%;
-    font-size: 20;
-}
-
-
-
-button.go {
+button.button {
     width: 20%;
     margin-left: 20%;
     background-color: #4CAF50;
@@ -37,6 +28,13 @@ button.go {
     font-size: 16px;
 }
 
+div.userPageHeader{
+    width: 300px;
+    text-align: center;
+    margin-left: 1%;
+    font-size: 20;
+}
+
 img.profileImage {
     height: 300px;
     width: 300px;
@@ -44,53 +42,12 @@ img.profileImage {
     border-radius: 50%;
 }
 
-ul.about {
-    margin-left: 1%;
-    margin-top: 10px;
-    width: 300px;
-}
-
-p.info {
-    margin-top: -505px;
-    border-left: -50px;
-    width: 70%;
-}
-
-img.imgLink {
-    padding-right: 40px;
-    margin-left: 1%;
-    height: 50px;
-    width: 50px;
-    background: #f5ebeb;
-}
-
-#imgLinks {
-    position: absolute;
-    padding-left: 50%;
-    margin-top: -90px;
-}
-
-div.about {
-    margin-left: 1%;
-    margin-top: 100px;
-}
-
-div.textAbout{
+div.aboutTxt{
     margin-left: 350px;
-    margin-top: -10%px;
+    margin-bottom: -100%;
 }
 
-
-
-div.links {
-    margin-left: 1%;
-    margin-top: 25px;
-    margin-left: 350px;
-    text-align: center;
-}
-
-div.button{
-   margin-left: 300px;
-   margin-top: 0px;
-   vertical-align: middle;
+div.test{
+    float:left;
+    margin: 10px 10px 10px 10px;
 }
